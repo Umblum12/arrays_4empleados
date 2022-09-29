@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\bin\Debug\net6.0\arrays_4empleados.exe
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\bin\Debug\net6.0\arrays_4empleados.deps.json
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\bin\Debug\net6.0\arrays_4empleados.runtimeconfig.json
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\bin\Debug\net6.0\arrays_4empleados.dll
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\bin\Debug\net6.0\arrays_4empleados.pdb
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.AssemblyInfo.cs
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.dll
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\refint\arrays_4empleados.dll
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.pdb
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\arrays_4empleados.genruntimeconfig.cache
+C:\Users\abela\source\repos\arrays_4empleados\arrays_4empleados\obj\Debug\net6.0\ref\arrays_4empleados.dll
